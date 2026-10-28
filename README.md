@@ -36,7 +36,7 @@ Download the `.rmskin` file from **[Releases](https://github.com/SteelArchadian/
 
 Made by SteelArchadian, under the [GNU GPL v3.0](LICENSE).
 
-Made with help from Claude (an AI).
+Made with AI assistance.
 
 ## Bugs and ideas
 
